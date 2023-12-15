@@ -1,6 +1,9 @@
 body {
   background-size: cover;
   background-image: url(./assets/pexels-jakub-novacek-924824.jpg);
+  object-fit: contain;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 h1 {
